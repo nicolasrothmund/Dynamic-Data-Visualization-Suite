@@ -1,4 +1,4 @@
-# Dynamic-Data-Visualization-Suite, Insightful Shiny Data Analytics in R 
+# Insightful Shiny Data Analytics in R with dynamic Data-Visualization
 
 **🌟 Shiny App Project**
 
