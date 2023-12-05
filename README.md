@@ -2,8 +2,7 @@
 
 **🌟 Shiny App Project**
 
-Hello there! I'm Nicolas, a passionate student of Management & Technology at Technical University of Munich (TUM), with specialised in Informatics.
-This repository showcases my first adventure into the world of Shiny apps in R. As someone deeply fascinated by the power of data visualization and its ability to bring clarity and insights in times of big data, I embarked on this project with a keen interest in exploring innovative ways to analyze and present data. The world of data science is vast and ever-evolving, and I am thrilled to be a part of it, especially in areas that demand creativity and technical acumen 📊👩‍💻.
+This repository showcases our first adventure into the world of Shiny apps in R. As someone deeply fascinated by the power of data visualization and its ability to bring clarity and insights in times of big data, I embarked on this project with a keen interest in exploring innovative ways to analyze and present data. The world of data science is vast and ever-evolving, and I am thrilled to be a part of it, especially in areas that demand creativity and technical acumen 📊👩‍💻.
 
 ##
 
